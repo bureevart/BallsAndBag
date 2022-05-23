@@ -1,0 +1,3 @@
+Z:/javaProjects/ClionProjects/BallsAndBag/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/javaProjects/ClionProjects/BallsAndBag/cmake-build-debug/CMakeFiles/BallsAndBag.dir
+Z:/javaProjects/ClionProjects/BallsAndBag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
